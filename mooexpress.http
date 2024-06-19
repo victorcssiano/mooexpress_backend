@@ -1,0 +1,6 @@
+@mooexpress_HostAddress = http://localhost:5098
+
+GET {{mooexpress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
